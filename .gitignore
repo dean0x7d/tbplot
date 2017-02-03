@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / binary extensions
+__pycache__/
+*.py[cod]
+*.so
+
+# Distribution / packaging
+deps/
+build/
+dist/
+sdist/
+eggs/
+develop-eggs/
+*.egg-info/
+*.egg
+.installed.cfg
+MANIFEST
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+tests/failed
